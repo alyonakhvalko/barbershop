@@ -43,15 +43,15 @@
 }
 
 .about__item:nth-child(1)::before  {
-    background-image: url('/assets/icon\ 1.png');
+    background-image: url('../icon\ 1.png');
 }
 
 .about__item:nth-child(2)::before  {
-    background-image: url('/assets/icon\ 2.png');
+    background-image: url('../icon\ 2.png');
 }
 
 .about__item:nth-child(3)::before  {
-    background-image: url('/assets/icon\ 3.png');
+    background-image: url('../icon\ 3.png');
 }
 
 .about__item-title {
