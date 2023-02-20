@@ -44,13 +44,13 @@
 .slider__arrow-right {
     left: 8%;
     background-position: left;
-    background-image: url('./assets/arrow-left.png');
+    background-image: url('../arrow-left.png');
 }
 
 .slider__arrow-left {
     right: 8%;
     background-position: right;
-    background-image: url('./assets/arrow-right.png');
+    background-image: url('../arrow-right.png');
 }
 
 @media screen and (max-width: 1024px) {
